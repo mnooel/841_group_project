@@ -22,7 +22,7 @@ AMD,2020,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.029694021742
 AMD,2020,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.5353777625492548
 AMD,2020,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0147526702126957
 AMD,2020,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.20311379698863055
-AMD,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0657584758783161
+AMD,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.030113694561098022
 AMD,2020,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,17.7676955266404
 AMD,2020,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,41.650617987550206
 AMD,2020,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,10.622763370787668
@@ -67,7 +67,7 @@ AMD,2019,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.056430145438
 AMD,2019,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.132295719844358
 AMD,2019,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0315511911256592
 AMD,2019,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2298321200415986
-AMD,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1004308423711187
+AMD,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03223889466646858
 AMD,2019,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,19.45171559957552
 AMD,2019,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,161.26099706744867
 AMD,2019,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,8.169662754419848
@@ -112,7 +112,7 @@ AMD,2018,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.123018017091
 AMD,2018,5 - Leverage Ratios,5.4 - Equity Multiplier (book),3.598736176935229
 AMD,2018,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0901677601341917
 AMD,2018,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.22146718146718147
-AMD,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.034594594594594595
+AMD,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.025173745173745175
 AMD,2018,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,19.37760663507109
 AMD,2018,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,72.79540059347181
 AMD,2018,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.7887335907335906
@@ -157,7 +157,7 @@ AMD,2017,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.194869392930
 AMD,2017,5 - Leverage Ratios,5.4 - Equity Multiplier (book),5.7937806873977085
 AMD,2017,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1312602641161231
 AMD,2017,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.21767686245074122
-AMD,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04954025145430663
+AMD,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.021204728842184276
 AMD,2017,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,21.745630114566286
 AMD,2017,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,308.99023255813955
 AMD,2017,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.4932595233627324
@@ -202,7 +202,7 @@ AMD,2016,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.256241758144
 AMD,2016,5 - Leverage Ratios,5.4 - Equity Multiplier (book),7.983173076923077
 AMD,2016,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1692459222665132
 AMD,2016,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.23595505617977527
-AMD,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.007022471910112359
+AMD,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.01802434456928839
 AMD,2016,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,23.307572115384616
 AMD,2016,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-19.508953722334006
 AMD,2016,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.2696512172284646
@@ -247,7 +247,7 @@ AMD,2015,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.786218292247
 AMD,2015,5 - Leverage Ratios,5.4 - Equity Multiplier (book),-7.546116504854369
 AMD,2015,5 - Leverage Ratios,5.5 - Equity Multiplier (market),2.570247933884297
 AMD,2015,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.23728388874968678
-AMD,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,-0.1325482335254322
+AMD,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.02405412177399148
 AMD,2015,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,-4.229126213592234
 AMD,2015,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-2.64
 AMD,2015,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.4365823101979454
@@ -292,7 +292,7 @@ AMD,2014,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.750631117224
 AMD,2014,5 - Leverage Ratios,5.4 - Equity Multiplier (book),20.144385026737968
 AMD,2014,5 - Leverage Ratios,5.5 - Equity Multiplier (market),2.3914517228930166
 AMD,2014,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.19469669451507446
-AMD,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.027243007628042135
+AMD,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.017253904831093354
 AMD,2014,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,10.664812834224598
 AMD,2014,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-4.948684863523573
 AMD,2014,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.3622084998183799
@@ -337,7 +337,7 @@ AMD,2013,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.701011874509
 AMD,2013,5 - Leverage Ratios,5.4 - Equity Multiplier (book),7.9724264705882355
 AMD,2013,5 - Leverage Ratios,5.5 - Equity Multiplier (market),2.175831909118327
 AMD,2013,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2266465370824684
-AMD,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,-0.04698999811285148
+AMD,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.015852047556142668
 AMD,2013,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.571231617647059
 AMD,2013,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-29.960843373493976
 AMD,2013,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.4692866578599736
@@ -382,7 +382,7 @@ AMD,2012,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.726273390954
 AMD,2012,5 - Leverage Ratios,5.4 - Equity Multiplier (book),7.434944237918216
 AMD,2012,5 - Leverage Ratios,5.5 - Equity Multiplier (market),2.571366921998058
 AMD,2012,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.249723349317595
-AMD,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.052010328292143124
+AMD,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.024529693839911472
 AMD,2012,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.4457249070631972
 AMD,2012,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-1.5670329670329672
 AMD,2012,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.34190335669494654
@@ -427,7 +427,7 @@ AMD,2011,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.468616355880
 AMD,2011,5 - Leverage Ratios,5.4 - Equity Multiplier (book),3.1157232704402515
 AMD,2011,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.5327121560857293
 AMD,2011,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.22122411693057248
-AMD,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06607795371498174
+AMD,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03806333739342266
 AMD,2011,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.9456477987421383
 AMD,2011,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,9.53885947046843
 AMD,2011,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.7130907429963459
@@ -472,7 +472,7 @@ AMD,2010,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.454509374902
 AMD,2010,5 - Leverage Ratios,5.4 - Equity Multiplier (book),4.900296150049359
 AMD,2010,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.6254803296253288
 AMD,2010,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.21635355712965815
-AMD,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,-0.7750230982445334
+AMD,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.022790267939636587
 AMD,2010,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.279259624876604
 AMD,2010,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,11.354331210191082
 AMD,2010,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.823512473052048
@@ -517,7 +517,7 @@ AMD,2009,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.687118903151
 AMD,2009,5 - Leverage Ratios,5.4 - Equity Multiplier (book),5.265661252900232
 AMD,2009,5 - Leverage Ratios,5.5 - Equity Multiplier (market),2.138111657603593
 AMD,2009,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.31852674440125855
-AMD,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.27114565981861927
+AMD,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08624838052933556
 AMD,2009,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.9035150812064967
 AMD,2009,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,16.465986842105263
 AMD,2009,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.9264593744216176
@@ -562,7 +562,7 @@ AMD,2008,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.950100920050
 AMD,2008,5 - Leverage Ratios,5.4 - Equity Multiplier (book),88.2183908045977
 AMD,2008,5 - Leverage Ratios,5.5 - Equity Multiplier (market),5.998047344388368
 AMD,2008,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.3233737408229469
-AMD,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0841727847020659
+AMD,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.10653918388253372
 AMD,2008,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,15.304827586206896
 AMD,2008,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-0.42979987088444155
 AMD,2008,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.22733822776165272
@@ -607,7 +607,7 @@ AMD,2007,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.723661596818
 AMD,2007,5 - Leverage Ratios,5.4 - Equity Multiplier (book),3.5483870967741935
 AMD,2007,5 - Leverage Ratios,5.5 - Equity Multiplier (market),2.492105732312362
 AMD,2007,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.30716780309329783
-AMD,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.28089140196241474
+AMD,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2802261766173291
 AMD,2007,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.413069124423963
 AMD,2007,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-1.36121337673868
 AMD,2007,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.76493264593381
@@ -652,7 +652,7 @@ AMD,2006,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.498103586106
 AMD,2006,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.1641152263374486
 AMD,2006,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.669186501055156
 AMD,2006,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2133120906355107
-AMD,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4755523101433882
+AMD,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.3287307488050982
 AMD,2006,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.4001399176954732
 AMD,2006,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-51.24006024096386
 AMD,2006,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.5057266772880156
@@ -697,7 +697,7 @@ AMD,2005,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.173975029508
 AMD,2005,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.0318189485129605
 AMD,2005,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1685187713894727
 AMD,2005,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.19564086116352122
-AMD,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,-0.7405860581228773
+AMD,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2587692304008994
 AMD,2005,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.075524013207581
 AMD,2005,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,110.01139947108332
 AMD,2005,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.113258092826017
@@ -742,7 +742,7 @@ AMD,2004,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.431050649284
 AMD,2004,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.037089937554114
 AMD,2004,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4968339264623987
 AMD,2004,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.18686117084396778
-AMD,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.43776256214466447
+AMD,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2879447598539219
 AMD,2004,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.6073649680810784
 AMD,2004,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,67.89976127078855
 AMD,2004,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.237538954000202
@@ -787,7 +787,7 @@ AMD,2003,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.494938355236
 AMD,2003,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.2479269316687525
 AMD,2003,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.5288609727251778
 AMD,2003,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.24212399067052212
-AMD,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,1.1447006792514594
+AMD,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.16205989597541237
 AMD,2003,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.6491875670590472
 AMD,2003,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-18.961541412291886
 AMD,2003,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.4789727294235457
@@ -832,7 +832,7 @@ AMD,2002,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.696018354998
 AMD,2002,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.277493905194618
 AMD,2002,5 - Leverage Ratios,5.5 - Equity Multiplier (market),2.5084066326699497
 AMD,2002,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.30259741367260046
-AMD,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.6190345005559822
+AMD,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.26145325096615574
 AMD,2002,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,0.7317120440974115
 AMD,2002,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-1.385503369485469
 AMD,2002,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.6693763828568399
@@ -877,7 +877,7 @@ AVGO,2020,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.22529434806
 AVGO,2020,5 - Leverage Ratios,5.4 - Equity Multiplier (book),3.207300304179341
 AVGO,2020,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2264967347145526
 AVGO,2020,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.19809600972250355
-AVGO,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.27182499493619605
+AVGO,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.01899939234352846
 AVGO,2020,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,7.98812275344806
 AVGO,2020,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,52.436257647702405
 AVGO,2020,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,7.766131576260888
@@ -922,7 +922,7 @@ AVGO,2019,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.35616905245
 AVGO,2019,5 - Leverage Ratios,5.4 - Equity Multiplier (book),3.320462370880472
 AVGO,2019,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4611889282305601
 AVGO,2019,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.21406511956234006
-AVGO,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2681108267890232
+AVGO,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.01945645460160593
 AVGO,2019,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.458738235981309
 AVGO,2019,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,42.90941933136095
 AVGO,2019,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,4.79905488418777
@@ -967,7 +967,7 @@ AVGO,2018,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.31986012875
 AVGO,2018,5 - Leverage Ratios,5.4 - Equity Multiplier (book),3.1049776093696178
 AVGO,2018,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4016138504597313
 AVGO,2018,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.18657907085875175
-AVGO,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.20441107461285782
+AVGO,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.02412013139371187
 AVGO,2018,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.695252930589046
 AVGO,2018,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,16.775777547692307
 AVGO,2018,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.1169664035664
@@ -1012,7 +1012,7 @@ AVGO,2017,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.21320146593
 AVGO,2017,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.8755888724596816
 AVGO,2017,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1819690843638715
 AVGO,2017,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.18109859753506163
-AVGO,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2553654908627284
+AVGO,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05121121971950701
 AVGO,2017,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.474592915962565
 AVGO,2017,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,13.151716333347306
 AVGO,2017,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.367862122243272
@@ -1057,7 +1057,7 @@ AVGO,2016,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.25443156448
 AVGO,2016,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.254293502953203
 AVGO,2016,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2850878624828819
 AVGO,2016,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.20598411071245515
-AVGO,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.25064069707842135
+AVGO,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05817529472065607
 AVGO,2016,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.8361480750511125
 AVGO,2016,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-44.98328137020511
 AVGO,2016,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.409637309833098
@@ -1102,7 +1102,7 @@ AVGO,2015,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.13881288873
 AVGO,2015,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.1044717828549113
 AVGO,2015,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0935893923815432
 AVGO,2015,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.155316091954023
-AVGO,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.14080459770114942
+AVGO,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08204022988505748
 AVGO,2015,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,7.275628975188583
 AVGO,2015,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,26.804673368302687
 AVGO,2015,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.353232181313324
@@ -1147,7 +1147,7 @@ AVGO,2014,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.18998759118
 AVGO,2014,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.9484564498346195
 AVGO,2014,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1375823105517329
 AVGO,2014,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1584215591915303
-AVGO,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1528392685274302
+AVGO,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09990375360923966
 AVGO,2014,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,9.015350930597883
 AVGO,2014,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,68.14102745043567
 AVGO,2014,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,6.2959948366138825
@@ -1192,7 +1192,7 @@ AVGO,2013,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.03249221685
 AVGO,2013,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.160427807486631
 AVGO,2013,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9589737426427193
 AVGO,2013,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1552958914436487
-AVGO,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07651715039577836
+AVGO,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08330192235205428
 AVGO,2013,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.148652597885059
 AVGO,2013,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,27.459480522053646
 AVGO,2013,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.806546767007952
@@ -1237,7 +1237,7 @@ AVGO,2012,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.04892605420
 AVGO,2012,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.148530579825258
 AVGO,2012,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9077327429517033
 AVGO,2012,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.14556163230963398
-AVGO,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06689103912494741
+AVGO,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.10980227177114009
 AVGO,2012,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.344395905627353
 AVGO,2012,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,14.957706732450577
 AVGO,2012,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.54278034933516
@@ -1282,7 +1282,7 @@ AVGO,2011,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.04615636628
 AVGO,2011,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1980392156862745
 AVGO,2011,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9547331429471771
 AVGO,2011,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1387824606215411
-AVGO,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06513409961685823
+AVGO,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05406555981268625
 AVGO,2011,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.4940467660838745
 AVGO,2011,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,16.4298483921346
 AVGO,2011,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.902875863265689
@@ -1327,7 +1327,7 @@ AVGO,2010,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.03969367294
 AVGO,2010,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.198905109489051
 AVGO,2010,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9956490676928887
 AVGO,2010,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.13214449016918153
-AVGO,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07361682670324646
+AVGO,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04663923182441701
 AVGO,2010,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.032900691924736
 AVGO,2010,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,16.681630519202148
 AVGO,2010,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.783305321227373
@@ -1372,7 +1372,7 @@ INTC,2020,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.24703636260
 INTC,2020,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.8891260889952861
 INTC,2020,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2935405661211923
 INTC,2020,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.17409172049777183
-INTC,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.22809405781653333
+INTC,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1856113629650558
 INTC,2020,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.782418271378859
 INTC,2020,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,10.789110095028471
 INTC,2020,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.895727482450846
@@ -1417,7 +1417,7 @@ INTC,2019,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.17934538024
 INTC,2019,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.761509083402147
 INTC,2019,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1999054181128326
 INTC,2019,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.18567359132911831
-INTC,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.3503786562912527
+INTC,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.22529007156256514
 INTC,2019,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.5386521985962016
 INTC,2019,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,13.030202394526796
 INTC,2019,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.8110150767734314
@@ -1462,7 +1462,7 @@ INTC,2018,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.20290687621
 INTC,2018,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7161729007684776
 INTC,2018,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2367595891330274
 INTC,2018,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.19115571364046974
-INTC,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.32475158084914185
+INTC,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.21427563233965674
 INTC,2018,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.853880818690235
 INTC,2018,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,10.107534103643186
 INTC,2018,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.00352748820009
@@ -1507,7 +1507,7 @@ INTC,2017,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.19618044997
 INTC,2017,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7857256697431143
 INTC,2017,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2251318985403288
 INTC,2017,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.20869648348496678
-INTC,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2934784340593681
+INTC,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.18766431382546486
 INTC,2017,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.2691313306915486
 INTC,2017,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,23.500903584314134
 INTC,2017,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.595101660473861
@@ -1552,7 +1552,7 @@ INTC,2016,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.21836387271
 INTC,2016,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7112161386766527
 INTC,2016,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2385239660860847
 INTC,2016,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.21452506440803543
-INTC,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.24414434135416843
+INTC,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.16207250745112567
 INTC,2016,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.629761725002265
 INTC,2016,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,16.882376890267544
 INTC,2016,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.9326047788236482
@@ -1597,7 +1597,7 @@ INTC,2015,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.24232069105
 INTC,2015,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.6872390930670378
 INTC,2015,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1819751039609196
 INTC,2015,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.21909493270707253
-INTC,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.22397254087254992
+INTC,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.13451359407460933
 INTC,2015,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.39943521322747
 INTC,2015,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,12.834457092819614
 INTC,2015,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.6478095926293923
@@ -1642,7 +1642,7 @@ INTC,2014,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.18954966420
 INTC,2014,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.6460395596527342
 INTC,2014,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.213738516798519
 INTC,2014,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2064972257025237
-INTC,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.26565240737426166
+INTC,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.18251297655271165
 INTC,2014,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.8080895864673763
 INTC,2014,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,13.403445381749826
 INTC,2014,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.8078382807947015
@@ -1687,7 +1687,7 @@ INTC,2013,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.22686543219
 INTC,2013,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.5853817632518539
 INTC,2013,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2332263258743636
 INTC,2013,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.20131668816877893
-INTC,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2922137056993246
+INTC,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.20389694164073766
 INTC,2013,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.092319846316259
 INTC,2013,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,12.670497397817048
 INTC,2013,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.3125556835205283
@@ -1732,7 +1732,7 @@ INTC,2012,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.25757669897
 INTC,2012,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.6473839423471281
 INTC,2012,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2371619056192813
 INTC,2012,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.19024765190003937
-INTC,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2904894921355055
+INTC,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2220055866969123
 INTC,2012,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.031556060074605
 INTC,2012,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,9.452227618718764
 INTC,2012,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.9501277618342363
@@ -1777,7 +1777,7 @@ INTC,2011,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.16557739928
 INTC,2011,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.5490623162205137
 INTC,2011,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.152482967448902
 INTC,2011,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1546324931943184
-INTC,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2528935721031871
+INTC,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.19933702475971776
 INTC,2011,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.877306092221908
 INTC,2011,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,10.207077731417092
 INTC,2011,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.4463415989184987
@@ -1822,7 +1822,7 @@ INTC,2010,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.10872240899
 INTC,2010,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2782925348978353
 INTC,2010,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.069825615098778
 INTC,2010,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1507461660133416
-INTC,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.167274144373381
+INTC,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.11936363844760792
 INTC,2010,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.3925966920695934
 INTC,2010,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,10.316299240143055
 INTC,2010,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.711094021250258
@@ -1867,7 +1867,7 @@ INTC,2009,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09944111839
 INTC,2009,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.273139267216574
 INTC,2009,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0691018440224664
 INTC,2009,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.16093033848606486
-INTC,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.13624846983801633
+INTC,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.12853360662738064
 INTC,2009,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.5692067907155187
 INTC,2009,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,24.52419317921721
 INTC,2009,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.0502519429498673
@@ -1912,7 +1912,7 @@ INTC,2008,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.14528882824
 INTC,2008,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2974570200573066
 INTC,2008,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1153592065761855
 INTC,2008,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.15223753525248762
-INTC,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1769807907199489
+INTC,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.13826956845634011
 INTC,2008,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.8355966025378634
 INTC,2008,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,13.558163265306122
 INTC,2008,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.9089501410099505
@@ -1957,7 +1957,7 @@ INTC,2007,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.10092491668
 INTC,2007,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3014124690145457
 INTC,2007,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0457065934749785
 INTC,2007,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1501278238639328
-INTC,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0982417697083529
+INTC,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.13043251421714405
 INTC,2007,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.855965576914083
 INTC,2007,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,17.506708715596332
 INTC,2007,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.185861115458862
@@ -2002,7 +2002,7 @@ INTC,2006,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09226786825
 INTC,2006,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3160644318676535
 INTC,2006,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.041513509340857
 INTC,2006,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1659883556610706
-INTC,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.22225990616697755
+INTC,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.16333163755581934
 INTC,2006,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.288972416004571
 INTC,2006,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,23.96437633485329
 INTC,2006,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.416322260838845
@@ -2047,7 +2047,7 @@ INTC,2005,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09286166872
 INTC,2005,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.335304847714333
 INTC,2005,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0382078727607904
 INTC,2005,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1325142945448926
-INTC,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.22907330139597176
+INTC,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.14984803997321383
 INTC,2005,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.477915538112874
 INTC,2005,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,14.524231301939059
 INTC,2005,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.241074022562201
@@ -2092,7 +2092,7 @@ INTC,2004,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.06757250551
 INTC,2004,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2479068923507608
 INTC,2004,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0082419232422835
 INTC,2004,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1396708468531673
-INTC,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.17626940278873982
+INTC,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.11233885819521179
 INTC,2004,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.6387634789133987
 INTC,2004,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,18.67746890007983
 INTC,2004,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,4.103594266216493
@@ -2137,7 +2137,7 @@ INTC,2003,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.04664610632
 INTC,2003,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2456534376156
 INTC,2003,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0066975366197664
 INTC,2003,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.14465346206164362
-INTC,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2272651869546465
+INTC,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.12129657277462592
 INTC,2003,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.23128573693389
 INTC,2003,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,35.097188441765645
 INTC,2003,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,6.568569058757174
@@ -2182,7 +2182,7 @@ INTC,2002,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.08393686521
 INTC,2002,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2468704184053232
 INTC,2002,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0131307392353675
 INTC,2002,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.15072485428187116
-INTC,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2951726199372291
+INTC,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1757211179195935
 INTC,2002,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.9030252622081876
 INTC,2002,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,33.03320500481232
 INTC,2002,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.847126737408459
@@ -2227,7 +2227,7 @@ LSCC,2020,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.05303416180
 LSCC,2020,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7690406761231652
 LSCC,2020,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0207477750912568
 LSCC,2020,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.21861952366950896
-LSCC,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,-0.24950259727531118
+LSCC,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04075026952857003
 LSCC,2020,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,14.206109565290339
 LSCC,2020,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,115.23489369209719
 LSCC,2020,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,13.381388027677813
@@ -2272,7 +2272,7 @@ LSCC,2019,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.10704198057
 LSCC,2019,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.8678443137530176
 LSCC,2019,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0667715086491423
 LSCC,2019,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1945517492260445
-LSCC,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.11288737988532342
+LSCC,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.062339609941275895
 LSCC,2019,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,7.6000470000824025
 LSCC,2019,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,57.25573770491803
 LSCC,2019,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,6.162501701341028
@@ -2317,7 +2317,7 @@ LSCC,2018,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.29031266776
 LSCC,2018,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.413117075567696
 LSCC,2018,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2432891145813567
 LSCC,2018,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2067432465979102
-LSCC,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.10989997467395857
+LSCC,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.041391778815894724
 LSCC,2018,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.9150744611289303
 LSCC,2018,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-38.44230681559152
 LSCC,2018,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.537314286144148
@@ -2362,7 +2362,7 @@ LSCC,2017,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.37411848352
 LSCC,2017,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.921366327810265
 LSCC,2017,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.3861515210745634
 LSCC,2017,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2677913053391405
-LSCC,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.11730978000367913
+LSCC,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.058013633501830496
 LSCC,2017,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.7050178462329977
 LSCC,2017,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-11.43046469771265
 LSCC,2017,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.0897356209565214
@@ -2407,7 +2407,7 @@ LSCC,2016,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.39259928136
 LSCC,2016,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.8357911474318676
 LSCC,2016,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4457908969366446
 LSCC,2016,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2751829979346874
-LSCC,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.17627278985795708
+LSCC,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06030150753768844
 LSCC,2016,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.2342105165846986
 LSCC,2016,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-16.16716667590898
 LSCC,2016,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.0480490757609107
@@ -2452,7 +2452,7 @@ LSCC,2015,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.49401614206
 LSCC,2015,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.5724011521340664
 LSCC,2015,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.6863751224195815
 LSCC,2015,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.33714153402009034
-LSCC,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.12249547991703738
+LSCC,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06829143327273712
 LSCC,2015,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.8874177140612727
 LSCC,2015,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-3.621384135198106
 LSCC,2015,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.420424025657321
@@ -2497,7 +2497,7 @@ LSCC,2014,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.08802119099
 LSCC,2014,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1577300300470548
 LSCC,2014,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9449264456664517
 LSCC,2014,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.24056952915245255
-LSCC,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,-0.01498387171664477
+LSCC,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.028042182084358706
 LSCC,2014,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.8963964850615114
 LSCC,2014,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,17.21415067929189
 LSCC,2014,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.284080223528994
@@ -2542,7 +2542,7 @@ LSCC,2013,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.10089147405
 LSCC,2013,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1612632233976354
 LSCC,2013,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9220525198556375
 LSCC,2013,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.24348845951432224
-LSCC,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06347793398992557
+LSCC,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0375911585595068
 LSCC,2013,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.7335054449284382
 LSCC,2013,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,29.952886519421178
 LSCC,2013,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.0106108713630553
@@ -2587,7 +2587,7 @@ LSCC,2012,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.15259681815
 LSCC,2012,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1991581596979444
 LSCC,2012,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.907919645897174
 LSCC,2012,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.27791703669751056
-LSCC,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06745781648379981
+LSCC,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07059830406508723
 LSCC,2012,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.4374912599636414
 LSCC,2012,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-17.360501249746672
 LSCC,2012,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.840515512647893
@@ -2632,7 +2632,7 @@ LSCC,2011,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.10143221529
 LSCC,2011,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1889491082703825
 LSCC,2011,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9161949037103688
 LSCC,2011,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.22569935231777263
-LSCC,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07923270701017068
+LSCC,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.12137288529554036
 LSCC,2011,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.033204509593176
 LSCC,2011,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,10.228423151651498
 LSCC,2011,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.513427941425906
@@ -2677,7 +2677,7 @@ LSCC,2010,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09517540205
 LSCC,2010,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.185004486668633
 LSCC,2010,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.8429586573178137
 LSCC,2010,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.20259396577201041
-LSCC,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07334569194809382
+LSCC,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.046532871228607504
 LSCC,2010,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.3059573233099693
 LSCC,2010,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,12.877756693299693
 LSCC,2010,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.468228050025523
@@ -2722,7 +2722,7 @@ LSCC,2009,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.23160529486
 LSCC,2009,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.170496526681402
 LSCC,2009,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.6229849576101912
 LSCC,2009,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2887202962658163
-LSCC,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08844769056681412
+LSCC,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03615883139594692
 LSCC,2009,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.1816517208714872
 LSCC,2009,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-43.03338795457812
 LSCC,2009,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.539879024791688
@@ -2767,7 +2767,7 @@ LSCC,2008,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.22986475471
 LSCC,2008,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1451209897269543
 LSCC,2008,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9061434701785116
 LSCC,2008,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.3086897445357281
-LSCC,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09630526135821688
+LSCC,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04556784335603927
 LSCC,2008,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,0.696724176057802
 LSCC,2008,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-4.6490646683766945
 LSCC,2008,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.7991566921920976
@@ -2812,7 +2812,7 @@ LSCC,2007,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.25166694100
 LSCC,2007,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3146154168646413
 LSCC,2007,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1727961938361569
 LSCC,2007,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.3628060111320499
-LSCC,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09473610570637797
+LSCC,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.048262202187058664
 LSCC,2007,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.0659363732915956
 LSCC,2007,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-1.272246639089969
 LSCC,2007,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.3340318920549694
@@ -2857,7 +2857,7 @@ LSCC,2006,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.25540620464
 LSCC,2006,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.4245405948521503
 LSCC,2006,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2620937856995258
 LSCC,2006,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.3339376433538799
-LSCC,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1435881348819966
+LSCC,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05570380389392933
 LSCC,2006,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.3170314695469925
 LSCC,2006,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,216.98104106045912
 LSCC,2006,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.734152587601188
@@ -2902,7 +2902,7 @@ LSCC,2005,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.31413189792
 LSCC,2005,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.4372214325294528
 LSCC,2005,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.3466031908308744
 LSCC,2005,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.45206102530086234
-LSCC,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.16703780915379512
+LSCC,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05347294608168293
 LSCC,2005,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.0335934902546557
 LSCC,2005,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-10.481002870579614
 LSCC,2005,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.4391944470766607
@@ -2947,7 +2947,7 @@ LSCC,2004,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.36574715185
 LSCC,2004,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.4945069122045886
 LSCC,2004,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4381397776043507
 LSCC,2004,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.4027640015586808
-LSCC,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.34256438414396545
+LSCC,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04749105529774345
 LSCC,2004,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,0.9401352031272173
 LSCC,2004,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-9.81374978356644
 LSCC,2004,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.2587981331255094
@@ -2992,7 +2992,7 @@ LSCC,2003,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.17251478260
 LSCC,2003,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.4050670503141334
 LSCC,2003,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1733338873685897
 LSCC,2003,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.41539239347139684
-LSCC,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4981684806975036
+LSCC,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.046708511795175094
 LSCC,2003,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.001146982735864
 LSCC,2003,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-13.211763936997583
 LSCC,2003,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.78511699783461
@@ -3037,7 +3037,7 @@ LSCC,2002,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.29211760954
 LSCC,2002,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.423707714763248
 LSCC,2002,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1304403859193795
 LSCC,2002,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.3743617049134537
-LSCC,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4894904986775835
+LSCC,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07616333371158228
 LSCC,2002,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.283101370597533
 LSCC,2002,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-4.8409462986846235
 LSCC,2002,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.7023437962081998
@@ -3082,7 +3082,7 @@ MU,2020,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.1501933095984
 MU,2020,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3454030621194277
 MU,2020,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0928717065315996
 MU,2020,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1181562726613488
-MU,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.6170685279187818
+MU,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4087200870195794
 MU,2020,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.1042939835116647
 MU,2020,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,28.001353784594865
 MU,2020,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.806021573604061
@@ -3127,7 +3127,7 @@ MU,2019,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.1999293309585
 MU,2019,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3602465753424657
 MU,2019,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1037117410232726
 MU,2019,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.11968793913844067
-MU,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.7175461549643843
+MU,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4372244027717207
 MU,2019,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.6325544901917806
 MU,2019,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,16.97187094616918
 MU,2019,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.88744676513059
@@ -3172,7 +3172,7 @@ MU,2018,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.2407037458543
 MU,2018,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2837157085696191
 MU,2018,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1522049885192023
 MU,2018,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.07314053522110409
-MU,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.40027300720612047
+MU,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.30548236563918607
 MU,2018,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.0229885719220473
 MU,2018,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,2.409328813559322
 MU,2018,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.1281419637471826
@@ -3217,7 +3217,7 @@ MU,2017,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.2490300909556
 MU,2017,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.5898345658957809
 MU,2017,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1635971760785555
 MU,2017,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.07782336428417189
-MU,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.5568127834161088
+MU,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.23433383718419348
 MU,2017,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.0355216877698457
 MU,2017,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,6.276124797943851
 MU,2017,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.0564439145756856
@@ -3262,7 +3262,7 @@ MU,2016,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.4389845056546
 MU,2016,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.1139125151883356
 MU,2016,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4600934782000727
 MU,2016,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.12796681772793608
-MU,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.7310853368154236
+MU,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4678546739380905
 MU,2016,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.7378857837181045
 MU,2016,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-75.77642384105961
 MU,2016,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.7577755587986787
@@ -3307,7 +3307,7 @@ MU,2015,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.4796909951107
 MU,2015,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.8371374764595103
 MU,2015,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.5803944029762116
 MU,2015,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.10588549669316588
-MU,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4538045293606787
+MU,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2900661366824771
 MU,2015,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.1042559189333334
 MU,2015,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,6.973833170237868
 MU,2015,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.9792903549896452
@@ -3352,7 +3352,7 @@ MU,2014,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.2287984720642
 MU,2014,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.8043704474505724
 MU,2014,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1669954859153941
 MU,2014,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.08449286517851856
-MU,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.3080703416424892
+MU,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1658475931079401
 MU,2014,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.0125468542383733
 MU,2014,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,10.199389661246613
 MU,2014,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.2284177778435668
@@ -3397,7 +3397,7 @@ MU,2013,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.3326265708227
 MU,2013,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.950916617386162
 MU,2013,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.260478456423962
 MU,2013,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.09103802854356884
-MU,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.17214785923233755
+MU,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1184292172679727
 MU,2013,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.2680366646954466
 MU,2013,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,12.622874382885355
 MU,2013,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.0398457583547556
@@ -3442,7 +3442,7 @@ MU,2012,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.5736363334874
 MU,2012,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7184216955778158
 MU,2012,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.583797044401944
 MU,2012,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.11431436450238155
-MU,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4072449235397343
+MU,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.17999498621208324
 MU,2012,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,0.7907573906669925
 MU,2012,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-5.779589285714286
 MU,2012,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.8113737778891953
@@ -3487,7 +3487,7 @@ MU,2011,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.5116122456470
 MU,2011,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.4636934802760326
 MU,2011,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4164095963820815
 MU,2011,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.09691629955947137
-MU,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4076049153721308
+MU,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.3225133317876188
 MU,2011,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,0.6398839221341024
 MU,2011,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-35.50076
 MU,2011,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.7202217713888245
@@ -3532,7 +3532,7 @@ MU,2010,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.4529539297941
 MU,2010,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.4625775465279167
 MU,2010,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.276695900697694
 MU,2010,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.07471647765176785
-MU,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4082721814543029
+MU,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.11329775405826106
 MU,2010,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,0.7999135481288773
 MU,2010,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,4.438831760133259
 MU,2010,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.8888521236379808
@@ -3577,7 +3577,7 @@ MU,2009,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.3848425026868
 MU,2009,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.653645466083768
 MU,2009,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.342103667886205
 MU,2009,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1178758996304221
-MU,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.24995137132853532
+MU,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.054464112040459055
 MU,2009,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.2655320829220138
 MU,2009,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-9.701500540540541
 MU,2009,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.7455530052518966
@@ -3622,7 +3622,7 @@ MU,2008,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.8191290159213
 MU,2008,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.548497434644515
 MU,2008,5 - Leverage Ratios,5.5 - Equity Multiplier (market),2.718381775333857
 MU,2008,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.12175893482831114
-MU,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4973721093202523
+MU,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.35634197617379115
 MU,2008,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,0.24632689958465673
 MU,2008,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-0.9774270479883664
 MU,2008,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.3532641906096706
@@ -3667,7 +3667,7 @@ MU,2007,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.5383308187088
 MU,2007,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.4129227170841048
 MU,2007,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.427486454011653
 MU,2007,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1378886351659933
-MU,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.7820129984191112
+MU,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.5742139469523977
 MU,2007,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,0.5373379787545074
 MU,2007,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-7.910509325681493
 MU,2007,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.9684920077287897
@@ -3712,7 +3712,7 @@ MU,2006,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.2337104248963
 MU,2006,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.274339732969496
 MU,2006,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.143551299651945
 MU,2006,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.12389250395206058
-MU,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.8485349803316055
+MU,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4035329583471196
 MU,2006,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.0264905954585324
 MU,2006,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,22.887483702737942
 MU,2006,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.936108966582111
@@ -3757,7 +3757,7 @@ MU,2005,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.2160358681679
 MU,2005,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.35215666413438
 MU,2005,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1731158570188644
 MU,2005,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.12461609490736095
-MU,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4037778268462573
+MU,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.19553566051749402
 MU,2005,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.3895338904363974
 MU,2005,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,86.00735632183908
 MU,2005,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.6522279543127847
@@ -3802,7 +3802,7 @@ MU,2004,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.2257874433247
 MU,2004,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3656434924040557
 MU,2004,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2368754745207546
 MU,2004,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.15730805520812763
-MU,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4702565115309503
+MU,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.25881552673732255
 MU,2004,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.309278644842025
 MU,2004,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,24.330691318327975
 MU,2004,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.6603789524499155
@@ -3847,7 +3847,7 @@ MU,2003,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.2157678861973
 MU,2003,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3910408723361147
 MU,2003,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1992424472340255
 MU,2003,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.19590709853702964
-MU,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4559116525303125
+MU,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.21509079524107702
 MU,2003,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.511222302039012
 MU,2003,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-8.580398452206651
 MU,2003,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.335224284169181
@@ -3892,7 +3892,7 @@ MU,2002,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.1989172453627
 MU,2002,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2271851113326686
 MU,2002,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1635092791812178
 MU,2002,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.19693354852291067
-MU,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.8166093607466143
+MU,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.4056206581994246
 MU,2002,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,0.9816068461282819
 MU,2002,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-6.172737722048067
 MU,2002,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.072594905620658
@@ -3937,7 +3937,7 @@ NVDA,2020,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.03388096737
 NVDA,2020,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7043153969099627
 NVDA,2020,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0324915108024926
 NVDA,2020,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2353823088455772
-NVDA,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.12347826086956522
+NVDA,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06764617691154423
 NVDA,2020,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,20.133760169300896
 NVDA,2020,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,78.51329883194829
 NVDA,2020,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,20.396978143328337
@@ -3982,7 +3982,7 @@ NVDA,2019,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.03049566966
 NVDA,2019,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.4187971156997705
 NVDA,2019,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9666344769091154
 NVDA,2019,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.25902179886426085
-NVDA,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1385784942297124
+NVDA,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04478842278805642
 NVDA,2019,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,14.207027672679311
 NVDA,2019,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,62.010931944698974
 NVDA,2019,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,15.880432837275904
@@ -4027,7 +4027,7 @@ NVDA,2018,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.04086930270
 NVDA,2018,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.422821665596232
 NVDA,2018,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0338890376100247
 NVDA,2018,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.20271423694093546
-NVDA,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0594059405940594
+NVDA,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05121201775349949
 NVDA,2018,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,10.00658927103404
 NVDA,2018,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,22.574633414634146
 NVDA,2018,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,7.97896525862069
@@ -4072,7 +4072,7 @@ NVDA,2017,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.02574784865
 NVDA,2017,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.5046178557087404
 NVDA,2017,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9984180236205439
 NVDA,2017,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.18488779081737697
-NVDA,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07669343215976941
+NVDA,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06104591311509162
 NVDA,2017,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,19.629500736179896
 NVDA,2017,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,48.12996389891697
 NVDA,2017,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,15.096973440395306
@@ -4117,7 +4117,7 @@ NVDA,2016,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.06613293196
 NVDA,2016,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.707913918778202
 NVDA,2016,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0389618253543622
 NVDA,2016,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2117221418234443
-NVDA,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0402315484804631
+NVDA,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.025470332850940667
 NVDA,2016,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,10.302985379208607
 NVDA,2016,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,36.08863328571429
 NVDA,2016,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,8.591288242402316
@@ -4162,7 +4162,7 @@ NVDA,2015,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.15127748487
 NVDA,2015,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.6491385097337212
 NVDA,2015,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1366194668520697
 NVDA,2015,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.26586826347305387
-NVDA,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.023501596806387224
+NVDA,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.01716566866267465
 NVDA,2015,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.7752697556500334
 NVDA,2015,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,27.47830706514658
 NVDA,2015,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.3676009057884233
@@ -4207,7 +4207,7 @@ NVDA,2014,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.19454017961
 NVDA,2014,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.630012978776283
 NVDA,2014,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1902315785896613
 NVDA,2014,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.29044600381885577
-NVDA,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.024898392761134397
+NVDA,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.026141368580672848
 NVDA,2014,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.7208757833524446
 NVDA,2014,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,19.062841820537056
 NVDA,2014,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.567715958789979
@@ -4252,7 +4252,7 @@ NVDA,2013,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.23128097876
 NVDA,2013,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.6270750502984697
 NVDA,2013,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1573700876802018
 NVDA,2013,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.32343380235448393
-NVDA,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05645928658488456
+NVDA,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06178595415869886
 NVDA,2013,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.3426496921781372
 NVDA,2013,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,23.727310627339865
 NVDA,2013,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.5276924737875337
@@ -4297,7 +4297,7 @@ NVDA,2012,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.18297486986
 NVDA,2012,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3282186165967542
 NVDA,2012,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.109085749112816
 NVDA,2012,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.26804658425072525
-NVDA,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08375600065324676
+NVDA,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04282761458160783
 NVDA,2012,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.6173597788513503
 NVDA,2012,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,13.880236387431204
 NVDA,2012,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.8242622894242948
@@ -4342,7 +4342,7 @@ NVDA,2011,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.14052327546
 NVDA,2011,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3394350419854288
 NVDA,2011,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0797144930429132
 NVDA,2011,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.250781029182602
-NVDA,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.041720090146650894
+NVDA,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03470170813395932
 NVDA,2011,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.2371725401401545
 NVDA,2011,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,15.960866460961297
 NVDA,2011,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.319875508525662
@@ -4387,7 +4387,7 @@ NVDA,2010,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09394172743
 NVDA,2010,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.4129497696342121
 NVDA,2010,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0486195499913258
 NVDA,2010,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.23955855952726673
-NVDA,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08253443320918384
+NVDA,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.02762671841490539
 NVDA,2010,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.1919948076261795
 NVDA,2010,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,52.683716845851805
 NVDA,2010,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.763903228496301
@@ -4432,7 +4432,7 @@ NVDA,2009,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09622204149
 NVDA,2009,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3454895427632318
 NVDA,2009,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0520635613434803
 NVDA,2009,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2732199089418283
-NVDA,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0830899052892803
+NVDA,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.02332850836253117
 NVDA,2009,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.4128591172193024
 NVDA,2009,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-133.78656725058985
 NVDA,2009,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.734374789802883
@@ -4477,7 +4477,7 @@ NVDA,2008,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.19178000939
 NVDA,2008,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3992542548979976
 NVDA,2008,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1210706646541038
 NVDA,2008,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.24990196676709903
-NVDA,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1285477737915634
+NVDA,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.11903263754799832
 NVDA,2008,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,1.8570056674289206
 NVDA,2008,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-148.02710747045703
 NVDA,2008,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.2984132589166444
@@ -4522,7 +4522,7 @@ NVDA,2007,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09170706981
 NVDA,2007,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.431549647199753
 NVDA,2007,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.033801248323566
 NVDA,2007,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.16878004617044018
-NVDA,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07740918430595481
+NVDA,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04581537680643067
 NVDA,2007,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.55188096476024
 NVDA,2007,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,14.939507926731078
 NVDA,2007,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.9079626439696358
@@ -4567,7 +4567,7 @@ NVDA,2006,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.05909851218
 NVDA,2006,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3330199175950799
 NVDA,2006,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0110799665461088
 NVDA,2006,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.18009457206158427
-NVDA,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0706012276575867
+NVDA,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.047333606841305526
 NVDA,2006,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.573245268800685
 NVDA,2006,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,24.99754567392758
 NVDA,2006,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.644798462190956
@@ -4612,7 +4612,7 @@ NVDA,2005,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.05731121801
 NVDA,2005,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3138680272967493
 NVDA,2005,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9883366460655516
 NVDA,2005,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.14820933902487995
-NVDA,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06842483879399938
+NVDA,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03350609739414325
 NVDA,2005,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.541183606035578
 NVDA,2005,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,26.695530027165834
 NVDA,2005,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.4001506296073516
@@ -4657,7 +4657,7 @@ NVDA,2004,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.08857857206
 NVDA,2004,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3821439604572134
 NVDA,2004,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0499340598575608
 NVDA,2004,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.16671567083724495
-NVDA,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07987132549565107
+NVDA,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03346263469306225
 NVDA,2004,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.109001509481677
 NVDA,2004,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,48.24330374440948
 NVDA,2004,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.408669405215714
@@ -4702,7 +4702,7 @@ NVDA,2003,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09200440637
 NVDA,2003,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.331206210134277
 NVDA,2003,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0366360712349392
 NVDA,2003,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.14809662386961758
-NVDA,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.10503882453941288
+NVDA,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06999882058975998
 NVDA,2003,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.4726700940498154
 NVDA,2003,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,49.052240863405245
 NVDA,2003,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.0024842838449626
@@ -4747,7 +4747,7 @@ NVDA,2002,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.29399964455
 NVDA,2002,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7337166702227007
 NVDA,2002,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1694877382172713
 NVDA,2002,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1177686523899328
-NVDA,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.061132882976065846
+NVDA,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03305826241838605
 NVDA,2002,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.1339582010161675
 NVDA,2002,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,21.9200109321817
 NVDA,2002,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.0423515670407015
@@ -4792,7 +4792,7 @@ ON,2020,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.2802455422709
 ON,2020,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.4361316432927684
 ON,2020,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.283657524315176
 ON,2020,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1223406279733587
-ON,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.16589914367269268
+ON,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09202664129400571
 ON,2020,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.9921455546205156
 ON,2020,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,60.650952595624496
 ON,2020,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.703035794080924
@@ -4837,7 +4837,7 @@ ON,2019,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.3715760242950
 ON,2019,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.5346710387774136
 ON,2019,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4418451387140212
 ON,2019,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.11614925968212544
-ON,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1681799235216296
+ON,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.11500752097718335
 ON,2019,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.8645011195812398
 ON,2019,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,44.97821526499764
 ON,2019,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.7256362332771522
@@ -4882,7 +4882,7 @@ ON,2018,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.3781912445110
 ON,2018,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.3755048370432985
 ON,2018,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4007963922628461
 ON,2018,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.11069526904036882
-ON,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.18505350186278346
+ON,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08757634009832775
 ON,2018,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.596424132905741
 ON,2018,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,13.218422573978685
 ON,2018,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.4108225716472838
@@ -4927,7 +4927,7 @@ ON,2017,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.3147112158672
 ON,2017,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.5687611567297393
 ON,2017,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.327542177708064
 ON,2017,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.10723241507459724
-ON,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.15114286229727047
+ON,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07138604751853656
 ON,2017,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.7548818706033558
 ON,2017,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,12.973262760034537
 ON,2017,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.897390290552218
@@ -4972,7 +4972,7 @@ ON,2016,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.5273680481358
 ON,2016,5 - Leverage Ratios,5.4 - Equity Multiplier (book),3.7530623306233064
 ON,2016,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.7259999236496455
 ON,2016,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.11576953594921804
-ON,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.37571988021193276
+ON,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0544933323095037
 ON,2016,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.0245548060487804
 ON,2016,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,30.64417142866557
 ON,2016,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.4283200535360516
@@ -5017,7 +5017,7 @@ ON,2015,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.4347445352949
 ON,2015,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.371223726944053
 ON,2015,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.459334307984125
 ON,2015,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.11347903198123463
-ON,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.15718862635162195
+ON,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07786486641112192
 ON,2015,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.161321607206324
 ON,2015,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,17.105047191076626
 ON,2015,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.0089423682132845
@@ -5062,7 +5062,7 @@ ON,2014,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.3620423841199
 ON,2014,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.320626441665655
 ON,2014,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.382915848224388
 ON,2014,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.11594661268897463
-ON,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1662976785375419
+ON,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.064615092668733
 ON,2014,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.637696473333738
 ON,2014,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,22.906384660885607
 ON,2014,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.3743251218198496
@@ -5107,7 +5107,7 @@ ON,2013,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.3582536064065
 ON,2013,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.19061070755986
 ON,2013,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.3425356882598987
 ON,2013,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.12009918424551694
-ON,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.011140259460236461
+ON,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05624034211377439
 ON,2013,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.4754455257465695
 ON,2013,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,24.40644832679045
 ON,2013,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.3226335600963093
@@ -5152,7 +5152,7 @@ ON,2012,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.3892089785649
 ON,2012,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.3933271014596964
 ON,2012,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4112525417304531
 ON,2012,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.12694739023800478
-ON,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.10497771943763169
+ON,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08853500984489965
 ON,2012,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.536678903933271
 ON,2012,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-38.937741188741725
 ON,2012,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.2186118179211718
@@ -5197,7 +5197,7 @@ ON,2011,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.4220174659948
 ON,2011,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.600267827251423
 ON,2011,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.4424410555872456
 ON,2011,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.10530749789385004
-ON,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.18141939981988786
+ON,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09177003747494408
 ON,2011,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.628840116504854
 ON,2011,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,164.27500895397486
 ON,2011,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.140566689132266
@@ -5242,7 +5242,7 @@ ON,2010,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.2670268573506
 ON,2010,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.1031700288184436
 ON,2010,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.18811298894074
 ON,2010,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.10720152156998357
-ON,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1896775309068903
+ON,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08260568859687041
 ON,2010,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.4772007606988478
 ON,2010,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,16.613957507228914
 ON,2010,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.0862603336431227
@@ -5287,7 +5287,7 @@ ON,2009,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.3555805945638
 ON,2009,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.4032450726657375
 ON,2009,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2869662095642402
 ON,2009,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.11019955654101996
-ON,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09562084257206209
+ON,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03242793791574279
 ON,2009,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.066396636472228
 ON,2009,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,50.50003378688524
 ON,2009,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.7075953774944568
@@ -5332,7 +5332,7 @@ ON,2008,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.5684575110874
 ON,2008,5 - Leverage Ratios,5.4 - Equity Multiplier (book),3.3824712643678163
 ON,2008,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.6983920827179455
 ON,2008,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.11383102978392058
-ON,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1927681526182597
+ON,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04623321004477322
 ON,2008,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.46769627387931
 ON,2008,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-4.518591440726125
 ON,2008,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.8358558529394587
@@ -5377,7 +5377,7 @@ ON,2007,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.4971548079538
 ON,2007,5 - Leverage Ratios,5.4 - Equity Multiplier (book),47.604651162790695
 ON,2007,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.7006829382794602
 ON,2007,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.0849189120163453
-ON,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1045843442727621
+ON,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08983527008044949
 ON,2007,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,55.120641467441864
 ON,2007,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,7.828860720396367
 ON,2007,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.2106691779338528
@@ -5422,7 +5422,7 @@ ON,2006,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.4327340006152
 ON,2006,5 - Leverage Ratios,5.4 - Equity Multiplier (book),-6.9232649071358745
 ON,2006,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.5648985300091032
 ON,2006,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.06606606606606606
-ON,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.18494581538059798
+ON,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.13768115942028986
 ON,2006,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,-11.70029937204301
 ON,2006,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,8.797799527820654
 ON,2006,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.5627896928580756
@@ -5467,7 +5467,7 @@ ON,2005,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.4041335577783
 ON,2005,5 - Leverage Ratios,5.4 - Equity Multiplier (book),-4.168784029038113
 ON,2005,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.5103974966788576
 ON,2005,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.07432968427732825
-ON,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.016341424718388068
+ON,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03791845153101698
 ON,2005,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,-8.46783164243194
 ON,2005,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,37.44602917319422
 ON,2005,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.8506168629938122
@@ -5512,7 +5512,7 @@ ON,2004,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.6624249222656
 ON,2004,5 - Leverage Ratios,5.4 - Equity Multiplier (book),-2.166471506635441
 ON,2004,5 - Leverage Ratios,5.5 - Equity Multiplier (market),2.626535564952465
 ON,2004,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.07451258978609203
-ON,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.12289841345015391
+ON,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06456705343752467
 ON,2004,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,-1.819933985714286
 ON,2004,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-6.801853933479213
 ON,2004,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.736075597347857
@@ -5557,7 +5557,7 @@ ON,2003,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.5714654083130
 ON,2003,5 - Leverage Ratios,5.4 - Equity Multiplier (book),-1.8786800388223877
 ON,2003,5 - Leverage Ratios,5.5 - Equity Multiplier (market),2.04726893984908
 ON,2003,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.08019885564205985
-ON,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.25391614295094267
+ON,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05609229903386174
 ON,2003,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,-2.4605293610482044
 ON,2003,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-9.719484031948882
 ON,2003,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.4267885292186475
@@ -5602,7 +5602,7 @@ ON,2002,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.9771897665961
 ON,2002,5 - Leverage Ratios,5.4 - Equity Multiplier (book),-1.828419452887538
 ON,2002,5 - Leverage Ratios,5.5 - Equity Multiplier (market),8.433037396869983
 ON,2002,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.06260949746426925
-ON,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,-0.06989396035039189
+ON,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.024435223605348087
 ON,2002,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,-0.34322655319148937
 ON,2002,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-1.5016161702127662
 ON,2002,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,0.20824626279391426
@@ -5647,7 +5647,7 @@ QCOM,2020,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.15007697644
 QCOM,2020,5 - Leverage Ratios,5.4 - Equity Multiplier (book),5.078455284552845
 QCOM,2020,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1296821441118174
 QCOM,2020,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2331584863244661
-QCOM,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05267890595728737
+QCOM,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05919820157362308
 QCOM,2020,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,24.056108247154473
 QCOM,2020,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,26.38734822592152
 QCOM,2020,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,6.6517077131509925
@@ -5692,7 +5692,7 @@ QCOM,2019,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.24868187710
 QCOM,2019,5 - Leverage Ratios,5.4 - Equity Multiplier (book),7.3368047861732775
 QCOM,2019,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.179357200075219
 QCOM,2019,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2258446221641913
-QCOM,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0570834013383385
+QCOM,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04206789619716011
 QCOM,2019,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,21.606321230666957
 QCOM,2019,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,22.981222652368604
 QCOM,2019,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.97867340109352
@@ -5737,7 +5737,7 @@ QCOM,2018,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.38056862262
 QCOM,2018,5 - Leverage Ratios,5.4 - Equity Multiplier (book),9.468067459220348
 QCOM,2018,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.3431788141363703
 QCOM,2018,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2545801171766019
-QCOM,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07211940853715242
+QCOM,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03301404259276481
 QCOM,2018,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,16.56599391761128
 QCOM,2018,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,27.77895224849328
 QCOM,2018,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.786162001301962
@@ -5782,7 +5782,7 @@ QCOM,2017,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.37397327688
 QCOM,2017,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.689809396422003
 QCOM,2017,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.069925358639862
 QCOM,2017,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.25023480477660004
-QCOM,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06686345543181717
+QCOM,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03519835413032783
 QCOM,2017,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.2232196523365655
 QCOM,2017,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-24.235141991484767
 QCOM,2017,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,4.518820473299343
@@ -5827,7 +5827,7 @@ QCOM,2016,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.22693017735
 QCOM,2016,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.67807472921874
 QCOM,2016,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1807659003712063
 QCOM,2016,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2148624779207671
-QCOM,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05858356463958281
+QCOM,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.022710068130204392
 QCOM,2016,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.5305883483945397
 QCOM,2016,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,16.152493352423807
 QCOM,2016,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.321117840020187
@@ -5872,7 +5872,7 @@ QCOM,2015,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.24727234954
 QCOM,2015,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.661396487282109
 QCOM,2015,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1930121431089957
 QCOM,2015,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.22920232082481112
-QCOM,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05388821638769462
+QCOM,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03627332303710815
 QCOM,2015,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.2420302318658423
 QCOM,2015,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,14.130352303523036
 QCOM,2015,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.8293734607839047
@@ -5917,7 +5917,7 @@ QCOM,2014,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09030892018
 QCOM,2014,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.248022875396069
 QCOM,2014,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0319720950586788
 QCOM,2014,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2040127577510755
-QCOM,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,-0.17419522326064382
+QCOM,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.045542204420709095
 QCOM,2014,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.661295714624282
 QCOM,2014,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,12.81270474339576
 QCOM,2014,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.8313617544132916
@@ -5962,7 +5962,7 @@ QCOM,2013,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.07335216693
 QCOM,2013,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.249952737191779
 QCOM,2013,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.007691131709914
 QCOM,2013,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.20372987828818218
-QCOM,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.2712995681193561
+QCOM,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04134275618374558
 QCOM,2013,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.381563229184109
 QCOM,2013,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,18.353729358985635
 QCOM,2013,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,4.915945884844915
@@ -6007,7 +6007,7 @@ QCOM,2012,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.08006967008
 QCOM,2012,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2683430446342705
 QCOM,2012,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0458468140616022
 QCOM,2012,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2027667790976194
-QCOM,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.045461211321308106
+QCOM,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05523781590653566
 QCOM,2012,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.2044553615432485
 QCOM,2012,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,17.128865263380707
 QCOM,2012,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.537973058219681
@@ -6052,7 +6052,7 @@ QCOM,2011,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.08811664480
 QCOM,2011,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3196476822121628
 QCOM,2011,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.041771919474623
 QCOM,2011,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.19765586647029945
-QCOM,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06553755522827688
+QCOM,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05216003927344134
 QCOM,2011,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.4820977646769835
 QCOM,2011,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,22.09515475395235
 QCOM,2011,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,6.0891838487972505
@@ -6097,7 +6097,7 @@ QCOM,2010,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09269450133
 QCOM,2010,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3762755102040816
 QCOM,2010,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0434603572227268
 QCOM,2010,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.22495500899820037
-QCOM,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,-0.33147656183049107
+QCOM,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.12888850801268317
 QCOM,2010,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.8902367010028147
 QCOM,2010,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,24.73389866722595
 QCOM,2010,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,7.579777327448796
@@ -6142,7 +6142,7 @@ QCOM,2009,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.10864238154
 QCOM,2009,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3535802931672365
 QCOM,2009,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0592951122119578
 QCOM,2009,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.23012869038607117
-QCOM,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.11203633610900833
+QCOM,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05819454958364875
 QCOM,2009,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.0723579040884186
 QCOM,2009,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,31.37448987374462
 QCOM,2009,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,6.207802642505677
@@ -6187,7 +6187,7 @@ QCOM,2008,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.10624746468
 QCOM,2008,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3686759642877984
 QCOM,2008,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0437400568537762
 QCOM,2008,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2116053124164364
-QCOM,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.11712273821196185
+QCOM,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.13405829396559407
 QCOM,2008,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.324557877749898
 QCOM,2008,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,20.846303824002927
 QCOM,2008,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.078255490774579
@@ -6232,7 +6232,7 @@ QCOM,2007,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.03975480563
 QCOM,2007,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1754003843689942
 QCOM,2007,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.996671595442518
 QCOM,2007,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.20447696943607405
-QCOM,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0964270340077486
+QCOM,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0670469220835127
 QCOM,2007,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.426789028955797
 QCOM,2007,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,20.18760641016652
 QCOM,2007,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,7.4367387798105895
@@ -6277,7 +6277,7 @@ QCOM,2006,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.03497662565
 QCOM,2006,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1525925925925926
 QCOM,2006,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9922024538203965
 QCOM,2006,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2097911059848776
-QCOM,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.12341407151095732
+QCOM,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.10175573497372806
 QCOM,2006,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.396987654320987
 QCOM,2006,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,24.950880704563648
 QCOM,2006,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,7.987607330513904
@@ -6322,7 +6322,7 @@ QCOM,2005,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.01843977055
 QCOM,2005,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1217006348145673
 QCOM,2005,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9984835847739014
 QCOM,2005,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1862240663900415
-QCOM,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1307883817427386
+QCOM,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09975103734439834
 QCOM,2005,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,6.609923016204477
 QCOM,2005,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,35.17066593333334
 QCOM,2005,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,13.13427358506224
@@ -6367,7 +6367,7 @@ QCOM,2004,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.02002372059
 QCOM,2004,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1186768546281072
 QCOM,2004,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0015036285674257
 QCOM,2004,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.15761304697649378
-QCOM,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09735147704340895
+QCOM,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09009690276899475
 QCOM,2004,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.917915009768835
 QCOM,2004,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,32.53315018554193
 QCOM,2004,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,12.083779497518082
@@ -6412,7 +6412,7 @@ QCOM,2003,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.02382835115
 QCOM,2003,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1392727061767258
 QCOM,2003,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9852960042655847
 QCOM,2003,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.13624523880566553
-QCOM,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.026600242396910848
+QCOM,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.053725078749838416
 QCOM,2003,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.932056804538209
 QCOM,2003,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,50.12360427323103
 QCOM,2003,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,11.428807874206306
@@ -6457,7 +6457,7 @@ QCOM,2002,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.03785692072
 QCOM,2002,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.186603795788734
 QCOM,2002,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9826632542825781
 QCOM,2002,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.13300681454541435
-QCOM,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.11747695738938543
+QCOM,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05516527068686743
 QCOM,2002,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.016149500905564
 QCOM,2002,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,64.33781102607746
 QCOM,2002,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,8.641371117135778
@@ -6502,7 +6502,7 @@ TXN,2020,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.063770199892
 TXN,2020,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.106345923587678
 TXN,2020,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0463277248395337
 TXN,2020,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.10580181176958717
-TXN,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07143351082221147
+TXN,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0448793306133739
 TXN,2020,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,16.580798006268456
 TXN,2020,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,27.22569996132052
 TXN,2020,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,10.533696928538019
@@ -6547,7 +6547,7 @@ TXN,2019,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.076483579121
 TXN,2019,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.022903334456046
 TXN,2019,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.059351028779591
 TXN,2019,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.10734895362580825
-TXN,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09490370576374887
+TXN,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05888896614058263
 TXN,2019,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,12.624857902409692
 TXN,2019,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,22.41371523555175
 TXN,2019,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,7.818230503842253
@@ -6592,7 +6592,7 @@ TXN,2018,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.080733486779
 TXN,2018,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.905381365354681
 TXN,2018,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0599530895715559
 TXN,2018,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.09877090724784592
-TXN,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.10073492143943234
+TXN,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07165484034465282
 TXN,2018,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,10.58013470082722
 TXN,2018,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,17.053356899505378
 TXN,2018,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,6.028746293667005
@@ -6637,7 +6637,7 @@ TXN,2017,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.064377106506
 TXN,2017,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7066847247750798
 TXN,2017,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.052391411945293
 TXN,2017,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.10079540137691331
-TXN,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.051467147917919925
+TXN,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04645411402981084
 TXN,2017,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,10.430784083914343
 TXN,2017,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,29.2838172393869
 TXN,2017,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,7.2069390465491985
@@ -6682,7 +6682,7 @@ TXN,2016,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.074437195758
 TXN,2016,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.5688914351188772
 TXN,2016,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0638518769072653
 TXN,2016,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1024682124158564
-TXN,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.030890052356020943
+TXN,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.039715781600598354
 TXN,2016,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,7.183866075615771
 TXN,2016,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,20.92813057299693
 TXN,2016,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.627272207174568
@@ -6727,7 +6727,7 @@ TXN,2015,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.106851782022
 TXN,2015,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.6318117836316106
 TXN,2015,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0987175738101993
 TXN,2015,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.09846153846153846
-TXN,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.025538461538461538
+TXN,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04238461538461538
 TXN,2015,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.381704911236677
 TXN,2015,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,17.925799412980577
 TXN,2015,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,4.117418234396923
@@ -6772,7 +6772,7 @@ TXN,2014,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.118114794798
 TXN,2014,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7056785370548604
 TXN,2014,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1096310038798556
 TXN,2014,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.10410118819471062
-TXN,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07205825986968187
+TXN,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.02951322345726332
 TXN,2014,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.384235240426064
 TXN,2014,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,19.83062890748912
 TXN,2014,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,4.288402004448203
@@ -6817,7 +6817,7 @@ TXN,2013,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.155127798750
 TXN,2013,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7523827149070048
 TXN,2013,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1416658649551816
 TXN,2013,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.12471320878400524
-TXN,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07882661422484431
+TXN,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.033759423139954114
 TXN,2013,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.248250953197552
 TXN,2013,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,21.23535987567342
 TXN,2013,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.7619508399873762
@@ -6862,7 +6862,7 @@ TXN,2012,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.204502843323
 TXN,2012,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.8265669190767266
 TXN,2012,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2085188146079582
 TXN,2012,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.14635477582846004
-TXN,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08241715399610136
+TXN,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03859649122807018
 TXN,2012,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.344454202251431
 TXN,2012,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,20.84056993227853
 TXN,2012,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.8583674472419442
@@ -6907,7 +6907,7 @@ TXN,2011,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.210011135154
 TXN,2011,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.8715303140978816
 TXN,2011,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.2318076462892424
 TXN,2011,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.12485439720442633
-TXN,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09034653465346534
+TXN,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0594059405940594
 TXN,2011,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.368971054446563
 TXN,2011,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,16.493952162851482
 TXN,2011,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.686151062048541
@@ -6952,7 +6952,7 @@ TXN,2010,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.071884142547
 TXN,2010,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2839896521989078
 TXN,2010,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.041552979060388
 TXN,2010,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.11248746956895317
-TXN,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07983674638407562
+TXN,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08585135328655306
 TXN,2010,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.7930455114151576
 TXN,2010,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,12.263945477893431
 TXN,2010,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.8345994560103107
@@ -6997,7 +6997,7 @@ TXN,2009,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.082321188588
 TXN,2009,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2465542069533018
 TXN,2009,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0435442427734682
 TXN,2009,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1416378979670119
-TXN,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.029631760644418872
+TXN,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07220943613348677
 TXN,2009,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.870053011983131
 TXN,2009,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,18.981398219387756
 TXN,2009,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.675743707566168
@@ -7042,7 +7042,7 @@ TXN,2008,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.126134555345
 TXN,2008,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2784687969118593
 TXN,2008,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0814681110622073
 TXN,2008,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.15518758499320054
-TXN,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06495480361571074
+TXN,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06103511719062475
 TXN,2008,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.0414029588784044
 TXN,2008,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,9.915689580468749
 TXN,2008,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,1.522928085313175
@@ -7087,7 +7087,7 @@ TXN,2007,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.063470234388
 TXN,2007,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.269874686716792
 TXN,2007,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0332281092457798
 TXN,2007,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.15570333959809166
-TXN,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06411739193291889
+TXN,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04958797166401619
 TXN,2007,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.115246330302681
 TXN,2007,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,15.449598097391513
 TXN,2007,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.967296670866651
@@ -7132,7 +7132,7 @@ TXN,2006,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.055134307563
 TXN,2006,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2262323943661972
 TXN,2006,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.030667898114661
 TXN,2006,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1539810592774465
-TXN,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0035776920378814453
+TXN,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08923184847421957
 TXN,2006,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.981201123273789
 TXN,2006,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,10.416039788205952
 TXN,2006,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.172672378841827
@@ -7177,7 +7177,7 @@ TXN,2005,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.064353667664
 TXN,2005,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2618748429253581
 TXN,2005,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0408628380021794
 TXN,2005,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.15045172851489585
-TXN,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.0676472784290301
+TXN,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09930560740685433
 TXN,2005,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.9095518137010976
 TXN,2005,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,20.072395698989247
 TXN,2005,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.4845307250168
@@ -7222,7 +7222,7 @@ TXN,2004,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.080008999438
 TXN,2004,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2477225752124321
 TXN,2004,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0142436388878704
 TXN,2004,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.15731319554848966
-TXN,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.12503974562798092
+TXN,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.10317965023847377
 TXN,2004,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.0527023019723556
 TXN,2004,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,21.427968925666242
 TXN,2004,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.1699085986220092
@@ -7267,7 +7267,7 @@ TXN,2003,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.064948487671
 TXN,2003,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.307316250842886
 TXN,2003,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0336593726274033
 TXN,2003,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1777506609721375
-TXN,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.1587350010168802
+TXN,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.08135041692088672
 TXN,2003,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.577612605794842
 TXN,2003,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,45.33288477057596
 TXN,2003,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.522553991778524
@@ -7312,7 +7312,7 @@ TXN,2002,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.129291885031
 TXN,2002,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.3675237562884293
 TXN,2002,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.108880697001022
 TXN,2002,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1931289514493618
-TXN,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.18155791482762734
+TXN,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.09566980794464988
 TXN,2002,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.56347641274455
 TXN,2002,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,-79.98940643720931
 TXN,2002,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.2823995961350354
@@ -7357,7 +7357,7 @@ XLNX,2020,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09253926520
 XLNX,2020,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.2120839234889034
 XLNX,2020,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0632344627146841
 XLNX,2020,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2881785493292837
-XLNX,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07078660408329324
+XLNX,2020,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.02263837464921329
 XLNX,2020,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,12.319060817251282
 XLNX,2020,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,51.565186760780634
 XLNX,2020,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,10.48745268213049
@@ -7402,7 +7402,7 @@ XLNX,2019,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.10481428288
 XLNX,2019,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.8746377541400339
 XLNX,2019,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0484250910307578
 XLNX,2019,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.25909011799277804
-XLNX,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.07467373384744126
+XLNX,2019,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03871018798655521
 XLNX,2019,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,7.959217021335684
 XLNX,2019,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,24.021782010735855
 XLNX,2019,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,6.498453733688237
@@ -7447,7 +7447,7 @@ XLNX,2018,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.09329999480
 XLNX,2018,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.0304770788659923
 XLNX,2018,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0278077334605362
 XLNX,2018,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.24315482371352773
-XLNX,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04835853876353046
+XLNX,2018,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.028165953227455718
 XLNX,2018,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,10.745950493849637
 XLNX,2018,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,34.95344162471406
 XLNX,2018,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,9.760208969884632
@@ -7492,7 +7492,7 @@ XLNX,2017,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.13471723063
 XLNX,2017,5 - Leverage Ratios,5.4 - Equity Multiplier (book),2.165078824037885
 XLNX,2017,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.099078999771271
 XLNX,2017,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.25913891407924156
-XLNX,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.035873800035950955
+XLNX,2017,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.01986027601445309
 XLNX,2017,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,7.86870479407567
 XLNX,2017,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,37.2022763148321
 XLNX,2017,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,7.5160140863244305
@@ -7537,7 +7537,7 @@ XLNX,2016,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.14707215453
 XLNX,2016,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.946812827267282
 XLNX,2016,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1044556119553544
 XLNX,2016,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2478779234806209
-XLNX,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.04398938269382555
+XLNX,2016,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.02884535497182104
 XLNX,2016,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,5.828883993932875
 XLNX,2016,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,23.578676268683207
 XLNX,2016,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,6.265907027085035
@@ -7582,7 +7582,7 @@ XLNX,2015,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.16102772500
 XLNX,2015,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.8800300610932612
 XLNX,2015,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1085747141560816
 XLNX,2015,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.23993512282584986
-XLNX,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.01664423540784011
+XLNX,2015,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.011361651326823291
 XLNX,2015,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,4.929829301966215
 XLNX,2015,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,23.765133082310278
 XLNX,2015,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.8125101257447795
@@ -7627,7 +7627,7 @@ XLNX,2014,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.20401289218
 XLNX,2014,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.8203185036306717
 XLNX,2014,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0778291905103004
 XLNX,2014,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.21480957407072615
-XLNX,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.043102755998413685
+XLNX,2014,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.015579011698466438
 XLNX,2014,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.730567942540319
 XLNX,2014,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,15.043216334936233
 XLNX,2014,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,4.148324102003611
@@ -7672,7 +7672,7 @@ XLNX,2013,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.12810794066
 XLNX,2013,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.526348875226543
 XLNX,2013,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.088348333317678
 XLNX,2013,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.20713699825327966
-XLNX,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03599846051767706
+XLNX,2013,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.016077924972876204
 XLNX,2013,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.7751110604884817
 XLNX,2013,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,20.448459483851558
 XLNX,2013,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.385980552280576
@@ -7717,7 +7717,7 @@ XLNX,2012,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.16764105375
 XLNX,2012,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.6380334679746105
 XLNX,2012,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1229670518424368
 XLNX,2012,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.21846431061961133
-XLNX,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03824670672210843
+XLNX,2012,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.019915215829779405
 XLNX,2012,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.3891911525246012
 XLNX,2012,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,19.912304978090557
 XLNX,2012,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,4.347334488629631
@@ -7762,7 +7762,7 @@ XLNX,2011,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.16995584778
 XLNX,2011,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.6966578366997582
 XLNX,2011,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1197681077827168
 XLNX,2011,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.18637654403940757
-XLNX,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.047587366139191005
+XLNX,2011,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.029545099058650916
 XLNX,2011,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.6606256665427557
 XLNX,2011,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,16.512850348583648
 XLNX,2011,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,4.130557154847849
@@ -7807,7 +7807,7 @@ XLNX,2010,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.18741292427
 XLNX,2010,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7751298993469837
 XLNX,2010,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.069446483683705
 XLNX,2010,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.16608363235210744
-XLNX,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.035977465720135736
+XLNX,2010,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.025506651265270297
 XLNX,2010,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.867371526054078
 XLNX,2010,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,13.335567978774343
 XLNX,2010,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.638057066787169
@@ -7852,7 +7852,7 @@ XLNX,2009,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.16559896589
 XLNX,2009,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.5349519250624906
 XLNX,2009,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0077423322857664
 XLNX,2009,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.21384215097190548
-XLNX,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,-0.016863307185204537
+XLNX,2009,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.014084921402631758
 XLNX,2009,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.2055874700330595
 XLNX,2009,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,23.32991011364612
 XLNX,2009,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.836237634947645
@@ -7897,7 +7897,7 @@ XLNX,2008,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.25145064547
 XLNX,2008,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.7269945213706104
 XLNX,2008,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0444269811880327
 XLNX,2008,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1878820313442781
-XLNX,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.051593185479005
+XLNX,2008,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.02043569281138342
 XLNX,2008,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,2.7682180786079336
 XLNX,2008,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,11.500608317210608
 XLNX,2008,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,2.4233444063790386
@@ -7942,7 +7942,7 @@ XLNX,2007,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.20138291066
 XLNX,2007,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.852023893110497
 XLNX,2007,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.1720969442003137
 XLNX,2007,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.2021194151294246
-XLNX,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.087710686734281
+XLNX,2007,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.056679512946883615
 XLNX,2007,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.6096544277986147
 XLNX,2007,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,17.146397221524392
 XLNX,2007,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,3.461288357487756
@@ -7987,7 +7987,7 @@ XLNX,2006,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.05420809569
 XLNX,2006,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1616503249476913
 XLNX,2006,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9865090653459659
 XLNX,2006,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.20090841866121253
-XLNX,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06761312756330934
+XLNX,2006,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03744274964148399
 XLNX,2006,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.022813481912764
 XLNX,2006,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,21.57459763564709
 XLNX,2006,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,4.308766238176249
@@ -8032,7 +8032,7 @@ XLNX,2005,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.04369681785
 XLNX,2005,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.1559858449969969
 XLNX,2005,5 - Leverage Ratios,5.5 - Equity Multiplier (market),0.9792179123971061
 XLNX,2005,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.19439840962009616
-XLNX,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05879481302701092
+XLNX,2005,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.037668172339791715
 XLNX,2005,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.6454909909356426
 XLNX,2005,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,31.596762940894298
 XLNX,2005,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.966578511243913
@@ -8077,7 +8077,7 @@ XLNX,2004,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.03778721961
 XLNX,2004,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.147594390043455
 XLNX,2004,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0007116840327515
 XLNX,2004,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1828994800824401
-XLNX,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.05097512922259585
+XLNX,2004,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03479613227752145
 XLNX,2004,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.903156296905959
 XLNX,2004,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,27.026739313938364
 XLNX,2004,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,6.415756116120974
@@ -8122,7 +8122,7 @@ XLNX,2003,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.03809083038
 XLNX,2003,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2501307343201502
 XLNX,2003,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0170903922423575
 XLNX,2003,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.18616824874228835
-XLNX,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.047694579916614105
+XLNX,2003,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.03126971184172064
 XLNX,2003,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,6.456350004249623
 XLNX,2003,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,65.21266475948131
 XLNX,2003,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,11.111857227194223
@@ -8167,7 +8167,7 @@ XLNX,2002,5 - Leverage Ratios,5.3 - Debt-to-Enterprise Value Ratio,0.05700844616
 XLNX,2002,5 - Leverage Ratios,5.4 - Equity Multiplier (book),1.2058436755808226
 XLNX,2002,5 - Leverage Ratios,5.5 - Equity Multiplier (market),1.0243161881311613
 XLNX,2002,6 - Industry Specific Ratios,6.1 - R&D-to-Sales,0.1933741473236171
-XLNX,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.06913585079909357
+XLNX,2002,6 - Industry Specific Ratios,6.2 - CAPEX-to-Sales,0.056289319647211955
 XLNX,2002,7 - Valuation Ratios,7.1 - Market-to-Book Ratio,3.525041935379719
 XLNX,2002,7 - Valuation Ratios,7.2 - Price-to-Earning Ratio,60.387806005198684
 XLNX,2002,7 - Valuation Ratios,7.3 - Market-to-Sales Ratio,5.940883412519508

@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import pandas as pd
 
 from .income_statement import IncomeStatement
+from .cashflow_statement import CashFlowStatement
 from .balance_sheet import BalanceSheet
 
 
@@ -32,13 +33,16 @@ def return_market_close(ticker: str, statement_date: datetime) -> float:
 class ConsolidatedStatement:
 
     def __init__(self, ticker: str,
-                 year: int, income_statement: IncomeStatement,
+                 year: int,
+                 income_statement: IncomeStatement,
+                 cashflow_statement: CashFlowStatement,
                  balance_sheet: BalanceSheet,
                  prior_balance_sheet: BalanceSheet):
         # company and base objects
         self.ticker: str = ticker
         self.year: int = year
         self.income_statement: IncomeStatement = income_statement
+        self.cashflow_statement: CashFlowStatement = cashflow_statement
         self.balance_sheet: BalanceSheet = balance_sheet
         self.prior_balance_sheet: BalanceSheet = prior_balance_sheet
 
@@ -121,8 +125,7 @@ class ConsolidatedStatement:
         # industry specific ratios
         self.r_and_d_to_sales: float = \
             self.income_statement.research_and_development / self.income_statement.revenue * -1
-        self.capx: float = \
-            self.balance_sheet.gross_ppe - self.prior_balance_sheet.gross_ppe + self.income_statement.dep_and_amort
+        self.capx: float = - self.cashflow_statement.capex
         self.capx_to_sales: float = self.capx / self.income_statement.revenue
 
         # valuation ratios

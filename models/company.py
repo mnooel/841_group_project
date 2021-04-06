@@ -10,6 +10,10 @@ from models.income_statement import IncomeStatement
 from models.balance_sheet import return_quarterly_bs_df
 from models.balance_sheet import convert_bs_df_to_records_dict
 from models.balance_sheet import BalanceSheet
+from models.cashflow_statement import return_quarterly_cf_df
+from models.cashflow_statement import combine_cash_flow_statements_to_dict
+from models.cashflow_statement import convert_cf_df_to_records_dict
+from models.cashflow_statement import CashFlowStatement
 from models.consolidated_statement import ConsolidatedStatement
 
 
@@ -27,6 +31,10 @@ class Company:
         # balance sheet
         self.bs_df: pd.DataFrame = return_quarterly_bs_df(self.ticker)
         self.bs_records_dict: dict = convert_bs_df_to_records_dict(self.bs_df)
+
+        # cash flows
+        self.cf_df: pd.DataFrame = return_quarterly_cf_df(self.ticker)
+        self.cf_records_dict: dict = convert_cf_df_to_records_dict(self.cf_df)
 
         # statement groups
         self.statement_groups = self.return_statement_groups()
@@ -97,11 +105,28 @@ class Company:
             else:
                 pass
 
+        # list of all cashflow statement objects
+        cashflow_statement_list = [
+            CashFlowStatement(ticker=self.ticker, quarter_offset=self.quarter_offset, **cf_stmt)
+            for cf_stmt in self.cf_records_dict
+        ]
+
+        # dict of cf statement objects organized by key=year
+        cashflow_statement_dict = {}
+
+        for cf_stmt in cashflow_statement_list:
+            if cf_stmt.year not in cashflow_statement_dict:
+                cashflow_statement_dict[cf_stmt.year] = [cf_stmt]
+            elif cf_stmt.year in cashflow_statement_dict:
+                cashflow_statement_dict[cf_stmt.year].append(cf_stmt)
+
         consolidated_statements = {}
 
         inc_years = list(income_statement_dict.keys())
+        cf_years = list(cashflow_statement_dict.keys())
         bs_years = list(balance_sheet_dict.keys())[:-1]
         print(f'{self.ticker} - is_years: {inc_years}')
+        print(f'{self.ticker} - cf_years: {cf_years}')
         print(f'{self.ticker} - bs_years: {bs_years}')
 
         years = [year for year in inc_years if year in bs_years and year > 2000]
@@ -112,9 +137,14 @@ class Company:
                 con_stmt = ConsolidatedStatement(
                     ticker=self.ticker,
                     year=year,
-                    income_statement=IncomeStatement(ticker=self.ticker,
-                                                     quarter_offset=self.quarter_offset,
-                                                     **combine_income_statements_to_dict(*income_statement_dict[year])),
+                    income_statement=IncomeStatement(
+                        ticker=self.ticker,
+                        quarter_offset=self.quarter_offset,
+                        **combine_income_statements_to_dict(*income_statement_dict[year])),
+                    cashflow_statement=CashFlowStatement(
+                        ticker=self.ticker,
+                        quarter_offset=self.quarter_offset,
+                        **combine_cash_flow_statements_to_dict(*cashflow_statement_dict[year])),
                     balance_sheet=balance_sheet_dict[year],
                     prior_balance_sheet=balance_sheet_dict[year - 1]
                 )
